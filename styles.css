@@ -1,5 +1,5 @@
 button {
-  background-color: #0c80f3;
+  background-color: #c42989;
   border: 6px solid #0ff166;
   border-radius: 10px;
 }
@@ -8,8 +8,8 @@ button {
   width: 600px;
   height: 600px;
   margin: 0 auto;
-  background-color: #34495e;
-  color: rgb(204, 28, 28);
+  background-color: #483ae2;
+  color: rgb(199, 23, 158);
   border: 6px solid #0b0d0f;
   border-radius: 10px;
   display: grid;
@@ -18,7 +18,7 @@ button {
 }
 
 .grid-row {
-  border: 6px solid #739dc7;
+  border: 6px solid #c7176f;
   border-radius: 6px;
   font-family: Helvetica;
   font-weight: bold;
@@ -30,8 +30,8 @@ button {
 }
 
 .block {
-  background-color: rgb(219, 28, 28);
-  border: 6px solid green;
+  background-color: rgb(81, 220, 21);
+  border: 6px solid rgb(235, 206, 15);
   border-radius: 6px;
   font-family: Helvetica;
   font-weight: bold;
@@ -39,7 +39,7 @@ button {
 }
 
 .red {
-  color: red;
+  color: rgb(243, 129, 15);
 }
 
 .white {
