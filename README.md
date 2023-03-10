@@ -3,7 +3,8 @@ Description:
 Tic Tac Toe Game tutorial Exercise to build this repository.
 
 
-ROADMAP 
+ROADMAP for Future Improvements/Refactoring of Game:
+
 1. Change Color of Square onClick  - proposed solution--
 “onClick” function to include use state [fillColor, setFillColor] return the square id (x or o) and change color of X when clicked to Blue and O to Red.
 2. Assign names of Player 1 and Player 2 -- proposed solution --
